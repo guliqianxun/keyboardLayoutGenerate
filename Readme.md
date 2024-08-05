@@ -21,8 +21,8 @@ This is a simple tool to generate keyboard layouts for virtual keyboards. It is 
 ### 坐标系调整
 `ax.invert_yaxis()`函数的使用是为了调整matplotlib的默认坐标系统，使得绘图的起点从左上角开始，而不是通常的左下角。这样做更符合计算机图形和GUI设计中常用的坐标系统，使得视觉呈现与实际的物理键盘布局更为一致。
 
-results how to use the tool are shown below.
-![./keyboard_layout_generate_result.png]
+results how to use the tool are shown below.  
+![keyboard_layout_generate_result](./keyboard_layout_generate_result.png)
 ## Cited
 https://github.com/ijprest/kle-serial/tree/master
 http://www.keyboard-layout-editor.com/#/
